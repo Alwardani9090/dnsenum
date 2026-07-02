@@ -1,0 +1,15 @@
+# Binaries
+/dnsenum
+*.exe
+*.exe~
+
+# Output
+*.json
+!go.sum
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
